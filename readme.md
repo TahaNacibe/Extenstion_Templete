@@ -230,11 +230,10 @@ Fetch data from the extension’s own storage.
 
 ### 2️⃣ `requestExternalDb`
 
-Fetch data from another extension (with allow-list validation).
+Fetch data from another extension (with allow-list validation you must be validated by your target).
 
 **Required**
 - `targetExt_id`
-- `targetExt_allowList`
 - `collection_name`
 - `activeExt_id`
 - `user_id`
