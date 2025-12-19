@@ -1,0 +1,10 @@
+{
+  "id": "UNIQUE_ID",
+  "name": "EXTENSION_NAME_COMPLETED",
+  "version": "EXTENSION_VERSION",
+  "description": "EXTENSION_DESCRIPTION_COMPLETED",
+  "main": "index.html",
+  "icon": "YOUR_ICON_NAME",
+  "author": "YOUR_NAME_OR_PIN_NAME",
+  "license": "MIT"
+}
